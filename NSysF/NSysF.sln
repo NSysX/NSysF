@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSysF.Api", "src\NSysF.Api\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSysF.Application", "src\NSysF.Application\NSysF.Application.csproj", "{744D8CC0-74E9-478B-A18D-759D3246A00A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebas", "src\Pruebas\Pruebas.csproj", "{23976561-D4FF-4001-9942-CDF551801890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{744D8CC0-74E9-478B-A18D-759D3246A00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{744D8CC0-74E9-478B-A18D-759D3246A00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{744D8CC0-74E9-478B-A18D-759D3246A00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23976561-D4FF-4001-9942-CDF551801890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23976561-D4FF-4001-9942-CDF551801890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23976561-D4FF-4001-9942-CDF551801890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23976561-D4FF-4001-9942-CDF551801890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A08E60DF-24F8-4C70-82A8-F17194F81A69} = {FEB72B97-A76E-4A7F-9B21-ECF183D74E4D}
 		{744D8CC0-74E9-478B-A18D-759D3246A00A} = {FEB72B97-A76E-4A7F-9B21-ECF183D74E4D}
+		{23976561-D4FF-4001-9942-CDF551801890} = {FEB72B97-A76E-4A7F-9B21-ECF183D74E4D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E3A3EBE-080A-4126-8B96-226F4C22F358}
